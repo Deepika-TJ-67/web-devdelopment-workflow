@@ -1,7 +1,7 @@
 # web-devdelopment-workflow
 # Modern Web Development Workflow
 
-mermaid
+```mermaid
 flowchart LR
 
 A[Local Git Repository<br>HTML, CSS, JavaScript<br>PHP, Python, Node.js] 
